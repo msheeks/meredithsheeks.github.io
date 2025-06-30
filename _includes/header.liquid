@@ -41,10 +41,11 @@
       </button>
 
       <div class="collapse navbar-collapse text-right" id="navbarNav">
-        <ul class="navbar-nav ml-auto flex-nowrap">
-          {% for page in site.pages %}
-            {% if page.permalink == '/' %} {% assign about_title = page.title %} {% endif %}
-          {% endfor %}
+        <ul class="navbar-nav">
+            {% for link in site.data.navigation %}
+                <li><a href="{{ link.url }}">{{ link.title }}</a></li>
+            {% endfor %}
+        </ul>
 
           <!-- About -->
           <li class="nav-item {% if page.permalink == '/' %}active{% endif %}">
