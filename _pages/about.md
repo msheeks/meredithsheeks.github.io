@@ -8,24 +8,12 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
-
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
-
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
 
 ---
 
-I am a PhD student at the University of North Carolina at Chapel Hill, where I am advised by Tom Dougherty, Alex Worsnip, Luc Bovens, and Kathleen Creel. My research is on normative ethics and the ethics of technology.
+I am a PhD student at the University of North Carolina at Chapel Hill, where I am advised by Tom Dougherty, Kathleen A. Creel, Alex Worsnip, and Luc Bovens. My research is on normative ethics and the ethics of technology.
 
-My dissertation is about the role of privacy in interpersonal relationships. Some of my other current projects are on algorithmic fairness and methods for improving the transparency of neural networks.
+My dissertation is about the role of privacy in interpersonal relationships. Some of my other current projects include a paper on algorithmic fairness a paper on methods for improving the transparency of neural networks.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
