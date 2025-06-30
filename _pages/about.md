@@ -25,7 +25,7 @@ announcements:
 
 I am a PhD student at the University of North Carolina at Chapel Hill, where I am advised by Tom Dougherty, Alex Worsnip, Luc Bovens, and Kathleen Creel. My research is on normative ethics and the ethics of technology.
 
-My dissertation is about the role of privacy in interpersonal relationships. Some of my other current research is on algorithmic fairness and methods for improving the transparency of neural networks.
+My dissertation is about the role of privacy in interpersonal relationships. Some of my other current projects are on algorithmic fairness and methods for improving the transparency of neural networks.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
