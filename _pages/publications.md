@@ -6,7 +6,7 @@ description:
 nav_order: 6
 ---
 
-#### [title redacted] - *under review*
+#### [title redacted] - *under review* 
 
 There is more than one prima facie plausible statistical criterion for evaluating whether classification algorithms are fair with respect to marginalized groups. These criteria are nevertheless incompatible with one another when applied under real world conditions. Given their mutual incompatibility, there is widespread debate over which one fairness criterion is correct. I argue, against the contemporary trend in this debate, that there is not one fairness criterion which ought to be used to the exclusion of others. Instead, multiple fairness criteria each correspond to different right-making features of decision-making involving socially salient groups. As a result, we should recognize the satisfaction of multiple criteria as separate pro tanto duties. My proposal both vindicates the considerations in favor of each individual criterion and solves a problem of triviality for monistic views about algorithmic fairness metrics.
 
