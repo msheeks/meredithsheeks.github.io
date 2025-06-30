@@ -15,6 +15,6 @@ I am a PhD student in philosophy at the University of North Carolina at Chapel H
 
 My dissertation is about the role of privacy in interpersonal relationships. Some of my other current projects include a paper on algorithmic fairness and a paper on methods for improving the transparency of neural networks.
 
-Outside of philosophy, I enjoy running slow half marathons, reading, gardening, and watching my cat sit on the back porch.
+Outside of philosophy, I enjoy running slow half marathons, doing the NYT crossword, and watching my cat sit on the back porch.
 
 My name is pronounced Muh-rae-kuh Duh-lay-win. 
