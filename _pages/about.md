@@ -7,7 +7,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  subtitle: myraeka [at] unc [dot] edu
+  subtitle: <a href='#'>myraeka [at] unc [dot] edu</a>. Address. Contacts. Motto. Etc.
 
 ---
 
