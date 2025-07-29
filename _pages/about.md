@@ -19,4 +19,4 @@ My dissertation is about the role of privacy in interpersonal relationships and 
 
 Outside of philosophy, I enjoy running slow half marathons, doing the NYT crossword, country line dancing (which is, I promise, more fun than it sounds), and watching my cat sit on the back porch.
 
-My name is pronounced Muh-rae-kuh Duh-lay-win. 
+My name is pronounced Muh-rae-kuh Duh-lay-win.  
