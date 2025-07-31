@@ -14,7 +14,7 @@ ninja.data = [{
           description: "Click the PDF link to the right to download my CV!",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/http:/127.0.0.1:4000/assets/pdf/meredith%20sheeks%20cv.pdf";
+            window.location.href = "/http:/meredithsheeks.com/assets/pdf/meredith%20sheeks%20cv.pdf";
           },
         },{id: "nav-teaching",
           title: "teaching",
