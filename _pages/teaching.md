@@ -17,7 +17,7 @@ Here is a list of courses I've taught as an independent instructor, along with l
 [Description](http://127.0.0.1:4000/assets/pdf/134coursedescriptionfall24.pdf) + [Syllabus](http://127.0.0.1:4000/assets/pdf/134syllabusfall24.pdf)
 
 *   ###### An Introduction to Critical Thinking (Spring 2024)
-[Description + Syllabus]()
+[Description + Syllabus](http://127.0.0.1:4000/assets/pdf/105syllabusspring24.pdf)
 
 *   ###### Moral and Philosophical Issues of Gender in Society (Fall 2023)
 [Description + Syllabus](http://127.0.0.1:4000/assets/pdf/275syllabusfall23.pdf)
