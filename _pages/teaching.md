@@ -11,10 +11,10 @@ It has been my privilege and joy over the years to share philosophy with student
 
 Here is a list of courses I've taught as an independent instructor, along with links to their descriptions and syllabi. 
 *    ###### Introduction to Social Ethics and Political Thought (Spring 2025)
-[Description](http://meredithsheeks.com/assets/pdf/170coursedescriptionspring25.pdf) + [Syllabus](http://127.0.0.1:4000/assets/pdf/170syllabusspring25.pdf)
+[Description](http://meredithsheeks.com/assets/pdf/170coursedescriptionspring25.pdf) + [Syllabus](http://meredithsheeks.com/assets/pdf/170syllabusspring25.pdf)
 
 *   ###### Philosophy of Western Religion (Fall 2024)
-[Description](http://meredithsheeks.com/assets/pdf/134coursedescriptionfall24.pdf) + [Syllabus](http://127.0.0.1:4000/assets/pdf/134syllabusfall24.pdf)
+[Description](http://meredithsheeks.com/assets/pdf/134coursedescriptionfall24.pdf) + [Syllabus](http://meredithsheeks.com/assets/pdf/134syllabusfall24.pdf)
 
 *   ###### An Introduction to Critical Thinking (Spring 2024)
 [Description + Syllabus](http://meredithsheeks.com/assets/pdf/105syllabusspring24.pdf)
