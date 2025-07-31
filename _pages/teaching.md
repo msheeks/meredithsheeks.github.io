@@ -14,7 +14,7 @@ Here is a list of courses I've taught as an independent instructor, along with l
 [Description](http://127.0.0.1:4000/assets/pdf/170coursedescriptionspring25.pdf) + [Syllabus](http://127.0.0.1:4000/assets/pdf/170syllabusspring25.pdf)
 
 *   ###### Philosophy of Western Religion (Fall 2024)
-[Description + Syllabus]()
+[Description](http://127.0.0.1:4000/assets/pdf/134coursedescriptionfall24.pdf) + [Syllabus](http://127.0.0.1:4000/assets/pdf/134syllabusfall24.pdf)
 
 *   ###### An Introduction to Critical Thinking (Spring 2024)
 [Description + Syllabus]()
