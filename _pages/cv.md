@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: http://127.0.0.1:4000/assets/pdf/meredith%20sheeks%20cv.pdf
+permalink: http://meredithsheeks.com/assets/pdf/meredith%20sheeks%20cv.pdf
 title: cv
 nav: true
 nav_order: 5
