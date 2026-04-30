@@ -9,7 +9,7 @@ nav_order: 6
 
 It has been my privilege and joy over the years to share philosophy with students. 
 
-Here is a list of courses I've taught as an independent instructor. 
+Here is a list of courses I've taught as an independent instructor at UNC. 
 *    ###### Introduction to Social Ethics and Political Thought (Spring 2025)
 [Description](http://meredithsheeks.com/assets/pdf/170coursedescriptionspring25.pdf) + [Syllabus](http://meredithsheeks.com/assets/pdf/170syllabusspring25.pdf)
 
