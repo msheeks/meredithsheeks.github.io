@@ -8,9 +8,12 @@ nav_order: 6
 My research spans ethics, epistemology, and philosophy of religion.
 
 The unifying theme of my work is that the ideals that guide our lives are importantly interrelated. I take an ideal that guides our lives to include any person to whom, or thing to which, we look for guidance on how to live.
-Classic examples are morality, rationality, love, truth, etiquette, and God. My work explores the relationships between and among the ideals that guide our lives.
+Classic examples are morality, reason, rationality, love, truth, etiquette, and God. My work explores the relationships between and among the ideals that guide our lives.
 
 Here is a list of my current publications, along with links to them.
+
+* ###### Trusting Morality's Authority (forthcoming in _Oxford Studies in Metaethics_)
+    About the relationship between truth and rationality and, well, what to do if you find yourself in an epistemic bubble. 
 
 * ###### The Myth of the Good Epistemic Bubble (in [_Episteme_](https://www.cambridge.org/core/journals/episteme/article/abs/myth-of-the-good-epistemic-bubble/B0765DC90737B1A311C8E85D067E7D5D))
     About the relationship between truth and rationality and, well, what to do if you find yourself in an epistemic bubble. 
@@ -21,8 +24,8 @@ Here is a list of my current publications, along with links to them.
 
 I have several ongoing projects as well. Here are a few of them.
 
-* ###### Morality Unmoralized (My Dissertation) 
-    On the relationship between morality and rationality, and why morality isn't the bad guy, despite what some might think.
+* ###### Morality without Moralizing (My Dissertation) 
+    On the relationship between morality and practical reason, and why morality isn't the bad guy, despite what some might think.
 
 * ###### The Importance of Being Rude
     About the relationship between morality and etiquette, and how there's a moral point to being rude.
