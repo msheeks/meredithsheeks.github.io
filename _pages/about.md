@@ -15,7 +15,7 @@ I am a Ph.D. candidate in philosophy at [The University of North Carolina at Cha
 
 My philosophical interests are broad, but my current work focuses on topics in ethics and epistemology. My dissertation, _Morality without Moralizing_, is about the authority of morality.
 
-Before moving to Chapel Hill, I completed an M.A. in philosophy at [Northern Illinois University](https://www.niu.edu/clas/phil/index.shtml) in Dekalb, IL and a B.S. in mathematics and theology at [Lee University](https://www.leeuniversity.edu/) in Cleveland, Tennessee. 
+Before moving to Chapel Hill, I completed an M.A. in philosophy at [Northern Illinois University](https://www.niu.edu/clas/phil/index.shtml) in DeKalb, IL and a B.S. in mathematics and theology at [Lee University](https://www.leeuniversity.edu/) in Cleveland, Tennessee. 
 
 You can email me at msheeks@unc.edu. You can also find me on [PhilPeople](https://philpeople.org/profiles/meredith-sheeks).
 
