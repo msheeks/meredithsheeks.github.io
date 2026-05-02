@@ -11,7 +11,9 @@ profile:
 
 ---
 
-I am a Ph.D. candidate in philosophy at [The University of North Carolina at Chapel Hill](https://philosophy.unc.edu/). For the summer of 2026, I'll be an active participant in the [AI + Data Ethics (AIDE) Summer Program](https://cssh.northeastern.edu/ethics/aide-summer/) in Boston, MA. In the spring of 2027, I'll serve as an Outreach and Service Assistant for the [Parr Center for Ethics](https://parrcenter.unc.edu/).   
+I am a Ph.D. candidate in philosophy at [The University of North Carolina at Chapel Hill](https://philosophy.unc.edu/). 
+
+For the summer of 2026, I'll be an active participant in the [AI + Data Ethics (AIDE) Summer Program](https://cssh.northeastern.edu/ethics/aide-summer/) in Boston, MA. In the spring of 2027, I'll serve as an Outreach and Service Assistant for the [Parr Center for Ethics](https://parrcenter.unc.edu/).   
 
 My philosophical interests are broad, but my current work focuses on topics in ethics and epistemology. My dissertation, _Morality without Moralizing_, is about the authority of morality.
 
