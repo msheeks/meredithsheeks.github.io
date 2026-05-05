@@ -8,7 +8,7 @@ nav_order: 6
 My research spans ethics, epistemology, and philosophy of religion.
 
 The unifying theme of my work is that the ideals that guide our lives are importantly interrelated. I take an ideal that guides our lives to include any person to whom, or thing to which, we look for guidance on how to live.
-Classic examples are morality, reason, love, truth, etiquette, and God. My work explores the relationships between and among the ideals that guide our lives.
+Classic examples include morality, reason, love, truth, etiquette, and God. My work explores the relationships between and among the ideals that guide our lives.
 
 Here is a list of my current publications, along with links to those available.
 
@@ -27,11 +27,11 @@ I have several ongoing projects as well. Here are a few of them.
 * ###### Perfectly Wonderful, Morally Decent 
     On the relationship between morality and practical reason, and why morality isn't the bad guy, despite what some might think.
 
-* ###### The Sometimes Saints 
-    On the relationship between morality and practical reason, and why it's possible to go above and beyond the call of moral duty.
-
 * ###### The Importance of Being Rude
     About the relationship between morality and etiquette, and how there's a moral point to being rude.
 
 * ###### The Bind of Oppressive Double Binds
     On the relationship between responsibility and liberation, and how to escape oppressive double binds.
+
+* ###### The Sometimes Saints 
+    On the relationship between morality and practical reason, and why it's possible to go above and beyond the call of moral duty.
