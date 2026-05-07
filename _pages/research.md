@@ -13,7 +13,7 @@ Classic examples include morality, reason, love, truth, etiquette, and God. My w
 Here is a list of my current publications, along with links to those available.
 
 * ###### Trusting Morality's Authority (forthcoming in _Oxford Studies in Metaethics_) 
-    On the relationship between morality and practical reason, and why morality's demands are trustworthy, even if impartialism about morality is true. 
+    On the relationship between morality and practical reason, and why morality's demands are decisive for us, even if impartialism about morality is true. 
 
 * ###### The Myth of the Good Epistemic Bubble (in [_Episteme_](https://www.cambridge.org/core/journals/episteme/article/abs/myth-of-the-good-epistemic-bubble/B0765DC90737B1A311C8E85D067E7D5D))
     About the relationship between truth and rationality and, well, what to do if you find yourself in an epistemic bubble. 
