@@ -33,5 +33,5 @@ I have several ongoing projects as well. Here are a few of them.
 * ###### The Bind of Oppressive Double Binds
     On the relationship between responsibility and liberation, and how to escape oppressive double binds.
 
-* ###### [title redacted for anonymity] 
+* ###### [under review--title redacted for anonymity] 
     On the relationship between morality and practical reason, and why it's possible to go above and beyond the call of moral duty.
