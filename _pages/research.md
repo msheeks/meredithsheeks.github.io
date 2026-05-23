@@ -31,7 +31,7 @@ I have several ongoing projects as well. Here are a few of them.
     About the relationship between morality and etiquette, and how there's a moral point to being rude.
 
 * ###### The Bind of Oppressive Double Binds
-    On the relationship between responsibility and liberation, and how to escape oppressive double binds.
+    On the relationship between blameworthiness and praiseworthiness, and how to escape oppressive double binds.
 
 * ###### [under review--title redacted for anonymity] 
     On the relationship between morality and practical reason, and why it's possible to go above and beyond the call of moral duty.
