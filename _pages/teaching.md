@@ -14,7 +14,7 @@ Here is a list of courses I've designed and taught as an independent instructor 
 [Description](http://meredithsheeks.com/assets/pdf/165coursedescriptionsummer26.pdf) + [Syllabus](http://meredithsheeks.com/assets/pdf/165syllabussummer26.pdf)
 
 * ###### Introduction to Social Ethics and Political Thought (Spring 2025)
-[Description](http://meredithsheeks.com/assets/pdf/170coursedescriptionsp25.pdf) + [Syllabus](http://meredithsheeks.com/assets/pdf/170syllabusspring25.pdf)
+[Description](http://meredithsheeks.com/assets/pdf/170coursedescriptionspring25.pdf) + [Syllabus](http://meredithsheeks.com/assets/pdf/170syllabusspring25.pdf)
 
 *   ###### Philosophy of Western Religion (Fall 2024)
 [Description](http://meredithsheeks.com/assets/pdf/134coursedescriptionfall24.pdf) + [Syllabus](http://meredithsheeks.com/assets/pdf/134syllabusfall24.pdf)
