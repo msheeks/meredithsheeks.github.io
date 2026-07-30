@@ -10,7 +10,7 @@ My research spans ethics, epistemology, and philosophy of religion.
 The unifying theme of my work is that the ideals that guide our lives are importantly interrelated. I take an ideal that guides our lives to include any person to whom, or thing to which, we look for guidance on how to live.
 Classic examples include morality, reason, love, truth, etiquette, and God. My work explores the relationships between and among the ideals that guide our lives.
 
-Here is a list of my current publications, along with links them.
+Here is a list of my current publications, along with links to them.
 
 * ###### Trusting Morality's Authority (forthcoming in _Oxford Studies in Metaethics_) [[**link**](http://meredithsheeks.com/assets/pdf/TMA_penultimate.pdf)]
     On the relationship between morality and practical reason, and why morality's demands are decisive for us, even if impartialism about morality is true. 
