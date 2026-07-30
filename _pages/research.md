@@ -10,15 +10,15 @@ My research spans ethics, epistemology, and philosophy of religion.
 The unifying theme of my work is that the ideals that guide our lives are importantly interrelated. I take an ideal that guides our lives to include any person to whom, or thing to which, we look for guidance on how to live.
 Classic examples include morality, reason, love, truth, etiquette, and God. My work explores the relationships between and among the ideals that guide our lives.
 
-Here is a list of my current publications, along with links to those available.
+Here is a list of my current publications, along with links them.
 
-* ###### Trusting Morality's Authority (forthcoming in _Oxford Studies in Metaethics_) [link to penultimate draft](http://meredithsheeks.com/assets/pdf/TMA_penultimate.pdf)
+* ###### Trusting Morality's Authority (forthcoming in _Oxford Studies in Metaethics_) [[link](http://meredithsheeks.com/assets/pdf/TMA_penultimate.pdf)]
     On the relationship between morality and practical reason, and why morality's demands are decisive for us, even if impartialism about morality is true. 
 
-* ###### The Myth of the Good Epistemic Bubble (in _Episteme_) [link to published paper](https://www.cambridge.org/core/journals/episteme/article/abs/myth-of-the-good-epistemic-bubble/B0765DC90737B1A311C8E85D067E7D5D))
+* ###### The Myth of the Good Epistemic Bubble (in _Episteme_) [[link](https://www.cambridge.org/core/journals/episteme/article/abs/myth-of-the-good-epistemic-bubble/B0765DC90737B1A311C8E85D067E7D5D)]
     About the relationship between truth and rationality and, well, what to do if you find yourself in an epistemic bubble. 
    
-* ###### A Love that Hides (in _Faith and Philosophy_) [link to published paper](https://place.asburyseminary.edu/faithandphilosophy/vol40/iss2/))
+* ###### A Love that Hides (in _Faith and Philosophy_) [[link](https://place.asburyseminary.edu/faithandphilosophy/vol40/iss2/)]
     On the relationship between love and God, and why God just might exist, even if God hides from us.
 
 
