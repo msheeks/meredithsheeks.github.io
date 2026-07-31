@@ -25,7 +25,7 @@ Here is a list of my current publications, along with links to them.
 I have several ongoing projects as well. Here are a few of them.
 
 * ###### LLMs, Search Engines, and Epistemic Rationality
-    On the relationship between truth and rationality, and why we should not treat Google Gemini as if it's a glorified Google Search. 
+    On the relationship between truth and rationality, and why we should not treat Google Gemini like a glorified Google Search. 
 
 * ###### Perfectly Wonderful, Morally Decent 
     On the relationship between morality and practical reason, and why morality isn't the bad guy, despite what some might think.
