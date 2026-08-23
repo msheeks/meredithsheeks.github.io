@@ -20,10 +20,10 @@ Here is a list of courses I've designed and taught as an independent instructor 
 [Description](http://meredithsheeks.com/assets/pdf/134coursedescriptionfall24.pdf) + [Syllabus](http://meredithsheeks.com/assets/pdf/134syllabusfall24.pdf)
 
 *   ###### An Introduction to Critical Thinking (Spring 2024)
-[Description + Syllabus](http://meredithsheeks.com/assets/pdf/105syllabusspring24.pdf)
+[Description](http://meredithsheeks.com/assets/pdf/105coursedescriptionspring24.pdf) + [Syllabus](http://meredithsheeks.com/assets/pdf/105syllabusspring24.pdf)
 
 *   ###### Moral and Philosophical Issues of Gender in Society (Fall 2023)
-[Description + Syllabus](http://meredithsheeks.com/assets/pdf/275syllabusfall23.pdf)
+[Description](http://meredithsheeks.com/assets/pdf/275coursedescriptionfall23.pdf) + [Syllabus](http://meredithsheeks.com/assets/pdf/275syllabusfall23.pdf)
 
 Prior to teaching my own courses, I had the opportunity to teach under, and learn from, some of the best. I assisted in teaching the following. 
 
