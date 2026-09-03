@@ -11,7 +11,7 @@ profile:
 
 ---
 
-I am a Ph.D. candidate in philosophy at [The University of North Carolina at Chapel Hill](https://philosophy.unc.edu/). Starting Autumn 2026, I am the _Moral Philosophy Pedagogy Fellow_ for the [Parr Center for Ethics](https://parrcenter.unc.edu/). I also serve as a Graduate Fellow for the Parr Center and an Affiliated Graduate Student with the [Philosophy, Politics, and Economics Program](https://ppe.unc.edu/) in Chapel Hill. Throughout the summer of 2026, I was an active participant in the [AI + Data Ethics (AIDE) Summer Program](https://cssh.northeastern.edu/ethics/aide-summer/) in Boston, MA.   
+I am a Ph.D. candidate in philosophy at [The University of North Carolina at Chapel Hill](https://philosophy.unc.edu/). Starting Autumn 2026, I am the **Moral Philosophy Pedagogy Fellow** for the [Parr Center for Ethics](https://parrcenter.unc.edu/). I also serve as a Graduate Fellow for the Parr Center and an Affiliated Graduate Student with the [Philosophy, Politics, and Economics Program](https://ppe.unc.edu/) in Chapel Hill. Throughout the summer of 2026, I was an active participant in the [AI + Data Ethics (AIDE) Summer Program](https://cssh.northeastern.edu/ethics/aide-summer/) in Boston, MA.   
 
 My philosophical interests are broad, but my current work focuses on topics in ethics and epistemology. My dissertation, _Morality without Moralizing_, is about the authority of morality.
 
