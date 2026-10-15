@@ -15,7 +15,7 @@ Here is a list of my current publications, along with links to them.
 * ###### Trusting Morality's Authority (forthcoming in _Oxford Studies in Metaethics_) [[pre-print](http://meredithsheeks.com/assets/pdf/TMA_penultimate.pdf)]
     On the relationship between morality and practical reason, and why morality's demands are decisive for us, even if impartialism about morality is true. 
 
-* ###### The Myth of the Good Epistemic Bubble (in _Episteme_) [[print](https://www.cambridge.org/core/journals/episteme/article/abs/myth-of-the-good-epistemic-bubble/B0765DC90737B1A311C8E85D067E7D5D)]
+* ###### The Myth of the Good Epistemic Bubble (in _Episteme_) [[print](https://www.cambridge.org/core/journals/episteme/article/abs/myth-of-the-good-epistemic-bubble/B0765DC90737B1A311C8E85D067E7D5D)] [[pre-print](http://meredithsheeks.com/assets/pdf/MGEB_penultimate.pdf)]
     About the relationship between truth and rationality and, well, what to do if you find yourself in an epistemic bubble. 
    
 * ###### A Love that Hides (in _Faith and Philosophy_) [[print](https://place.asburyseminary.edu/faithandphilosophy/vol40/iss2/)]
